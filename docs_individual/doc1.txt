@@ -1,0 +1,5 @@
+﻿The library contains 12,000 books.
+It is open from Monday to Saturday.
+The library opens at 9:00 AM and closes at 6:00 PM.
+Visitors can read books in the reading room.
+The library is closed on Sunday.

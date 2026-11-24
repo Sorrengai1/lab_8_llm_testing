@@ -1,0 +1,5 @@
+﻿Registered readers can borrow up to five books at a time.
+The standard borrowing period is 14 days.
+Readers can return books before the due date.
+A library card is required to borrow books.
+Books can be renewed if no other reader has reserved them.
